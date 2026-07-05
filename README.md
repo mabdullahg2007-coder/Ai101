@@ -32,13 +32,7 @@ Built as the capstone of a 6-week self-study roadmap covering Python fundamental
 4. An agent layer adds quiz generation and topic-tracking on top of the core RAG pipeline
 
 ## 🚀 Running locally
-
-```bash
-git clone https://github.com/yourusername/ai-study-assistant.git
-cd ai-study-assistant
-pip install -r requirements.txt
-streamlit run app.py
-```
+"Will add later"
 
 ## 📌 Project Background
 
